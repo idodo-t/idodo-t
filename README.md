@@ -1,7 +1,7 @@
 # Hi, I'm Dodo Tahirou Abdoul Salam 🚀
 ### State Engineer Student in AI & Data Science | Software Engineer
 
-I am an AI Engineer passionate about **Agentic AI, RAG, and LLMs**, with a strong background in **Software Engineering**. Seeking opportunities.
+I am an AI Engineer passionate about **Agentic AI, RAG, and LLMs**, with a strong background in **Software Engineering**.Seeking job opportunities and internships.
 
 - 🤖 **Specialties:** Deep Learning (CNN), Agentic AI, RAG, LLM, AgTech.
 - 💻 **Tech Stack:** Python, React, Java, C#, SQL, NoSQL (MongoDB).
