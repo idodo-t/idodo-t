@@ -15,4 +15,4 @@ I am an AI Engineer passionate about **Agentic AI, RAG, and LLMs**, with a stron
 - **Web:** React.js, React Native, Node.js, Vercel
 - **Systems:** Linux, Docker, IoT (MQTT)
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/dodo-tahirou) | [Portfolio](https://portfolio-react-bice-tau-78.vercel.app/)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/idodo12) | [Portfolio](https://portfolio-react-bice-tau-78.vercel.app/)
