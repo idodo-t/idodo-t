@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dodo Tahirou Abdoul Salam 🚀
+### State Engineer Student in AI & Data Science | Software Engineer
 
-<!--
-**idodo-t/idodo-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Engineer passionate about **Agentic AI, RAG, and LLMs**, with a strong background in **Software Engineering**. Seeking opportunities.
 
-Here are some ideas to get you started:
+- 🤖 **Specialties:** Deep Learning (CNN), Agentic AI, RAG, LLM, AgTech.
+- 💻 **Tech Stack:** Python, React, Java, C#, SQL, NoSQL (MongoDB).
+- 🏆 **Achievement:** Vice-Champion - AI Hackathon EMSI 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, JavaScript, Java, SQL, C++, C#
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain
+- **Web:** React.js, React Native, Node.js, Vercel
+- **Systems:** Linux, Docker, IoT (MQTT)
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/dodo-tahirou) | [Portfolio](https://portfolio-react-bice-tau-78.vercel.app/)
