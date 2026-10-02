@@ -13,7 +13,7 @@ I am available for a six-month end-of-studies internship in AI, Machine Learning
 - [Portfolio React](https://github.com/idodo-t/portfolio-react): I built this React portfolio to present my experience, skills, and project work.
 - [MLOps TP1 Tutorial](https://github.com/idodo-t/mlops-tp1-tutorial): I use this repository for a small Python model-training and environment-setup exercise.
 
-See [my portfolio](https://portfolio-react-bice-tau-78.vercel.app/) for more projects and details about my work.
+Browse [my engineering project catalog](https://github.com/idodo-t/My-Engineering-Projects) for summaries of all nine projects. Visit [my portfolio](https://portfolio-react-bice-tau-78.vercel.app/) for interactive project details.
 
 ## Skills
 
