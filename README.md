@@ -6,14 +6,19 @@ I am pursuing a double degree in Artificial Intelligence and Data Science at EMS
 
 I am available for a six-month end-of-studies internship in AI, Machine Learning, or Data Science starting in February 2027.
 
-## Selected Projects
+## Selected Engineering Projects
 
-- [Fellah AI](https://github.com/idodo-t/fellah-ai): I am developing an agricultural assistant with crop recommendations, farm-profit and cash-flow forecasts, plant-image analysis, and Darija voice support.
-- [Library Management System](https://github.com/idodo-t/library_management_system): I built a Flask and MongoDB application for managing books, members, loans, returns, and library statistics.
-- [Portfolio React](https://github.com/idodo-t/portfolio-react): I built this React portfolio to present my experience, skills, and project work.
-- [MLOps TP1 Tutorial](https://github.com/idodo-t/mlops-tp1-tutorial): I use this repository for a small Python model-training and environment-setup exercise.
+- [Malware Detection with CNN](https://github.com/idodo-t/malware-detection-cnn): I built a tested CNN training and prediction pipeline. The original dataset is not included.
+- [Nutrition Detection with YOLOv8](https://github.com/idodo-t/nutrition-detection-yolov8): I built a training and inference pipeline; it needs the original labeled images.
+- [Agentic RAG Assistant](https://github.com/idodo-t/agentic-rag-assistant): I built a source-aware local document assistant with optional LLM generation.
+- [Hotel Occupancy Forecast](https://github.com/idodo-t/hotel-occupancy-forecast): I built a time-series baseline with synthetic demo data.
+- [BI / ETL Data Warehouse](https://github.com/idodo-t/bi-etl-data-warehouse): I built a CSV-to-SQLite warehouse and local dashboard.
+- [Real-Time IoT Dashboard](https://github.com/idodo-t/iot-mqtt-dashboard): I built an MQTT sensor dashboard with a local demo mode.
+- [Library Management System](https://github.com/idodo-t/library_management_system): I built the original Flask and MongoDB application for books, members, loans, and statistics.
+- [Linux Server Hardening](https://github.com/idodo-t/linux-server-hardening): I built a read-only audit for selected SSH settings and file permissions.
+- [Medical Appointment Booking API](https://github.com/idodo-t/medical-appointment-booking): I built a local .NET 9 API with appointment conflict checks; it is a demo, not a production medical system.
 
-Browse [my engineering project catalog](https://github.com/idodo-t/My-Engineering-Projects) for summaries of all nine projects. Visit [my portfolio](https://portfolio-react-bice-tau-78.vercel.app/) for interactive project details.
+These links include reference implementations for projects whose original datasets or source were not available. Visit [my portfolio](https://portfolio-react-bice-tau-78.vercel.app/) for interactive project details. I also work on [Fellah AI](https://github.com/idodo-t/fellah-ai), an agricultural WhatsApp assistant, and a small [MLOps tutorial](https://github.com/idodo-t/mlops-tp1-tutorial).
 
 ## Skills
 
